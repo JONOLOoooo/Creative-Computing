@@ -31,7 +31,9 @@
 
 ![Screenshot 2021-10-29 at 12.10.29](../../Desktop/Screenshot 2021-10-29 at 12.10.29.png)
 
+
 ![Screenshot 2021-10-29 at 13.23.53](../../Library/Application Support/typora-user-images/Screenshot 2021-10-29 at 13.23.53.png)
+
 
 #### README
 
@@ -42,7 +44,7 @@
 
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/#lists-1)
 
-##*Reflection*
+## *Reflection*
 
 <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> <u>***😵‍💫😳***</u> 
 
