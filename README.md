@@ -25,7 +25,7 @@
 
 - The Arduino Uno is a microsoftcontroller board and with sets of pins which allow you to connect and inferace with other boards and circuits. I have learnt how to connect a circuit and light a LED with the starter kit.
 
-####GitHub
+#### GitHub
 
 - An open-source version control/revision control/source control software. a version control system(VAS) can be seen as a database. A centralised version control system(CVCS) allow people in a collaboraation to work on together, while a distributed version control system does not rely on the CVCS and can process different operations when off line. 
 
